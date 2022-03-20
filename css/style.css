@@ -1,0 +1,27 @@
+.heading-content {
+    position :absolute;
+    top: 50%;
+    width: 100%;
+    }
+    .heading-content h1{
+       font-size: 5em;
+       font-weight: 300;
+       color:#fff;
+       
+        }
+    .heading-content h5{
+            font-size: 3em;
+            font-weight: 300;
+            color:#fff;
+            
+    
+             }
+    .heading-content p{
+                font-size: 1em;
+                font-weight: lighter;
+                color:#fff;
+                text-transform: uppercase;
+                color: #ccc;
+                word-spacing: 5px;
+                letter-spacing: 2px;
+                 }
