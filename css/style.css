@@ -46,3 +46,22 @@
         width: 500px;
         height:200px;
     }
+@media screen and (max-width:767px){
+    .heading-content {
+        position :absolute;
+        top: 50%;
+        width: 100%;
+        }
+        .heading-content h1{
+           font-size: 2em;
+           font-weight: 300;
+           color:#fff;
+           
+            }
+        .heading-content h5{
+                font-size: 1em;
+                font-weight: 300;
+                color:#fff;
+                 }
+    
+}
