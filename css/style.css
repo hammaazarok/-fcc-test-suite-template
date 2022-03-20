@@ -13,8 +13,6 @@
             font-size: 3em;
             font-weight: 300;
             color:#fff;
-            
-    
              }
     .heading-content p{
                 font-size: 1em;
@@ -25,3 +23,26 @@
                 word-spacing: 5px;
                 letter-spacing: 2px;
                  }
+    #about .btn{
+        border:2px solid red;
+        width:40%;
+        padding: 15px 22px;
+        background:#000;
+        border-radius: 5px;
+        margin-top: 10px;
+    }   
+    #about .btn a{
+        color:#fff;
+        text-decoration: none;
+        font-size: 1em;
+        font-weight: bold;
+        text-transform: uppercase;
+    }         
+    #about .btn a:hover{
+        border:2px solid blue;
+        cursor: pointer;
+    } 
+    .card-img-top {
+        width: 500px;
+        height:200px;
+    }
